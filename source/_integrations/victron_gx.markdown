@@ -31,7 +31,7 @@ related:
     title: Victron MQTT Python library
   - url: https://tomer-w.github.io/victron_mqtt/
     title: Supported entities documentation
-ha_quality_scale: bronze
+ha_quality_scale: silver
 ---
 
 The **Victron GX Integration** integration connects to [Victron Energy](https://www.victronenergy.com/) GX devices using MQTT, providing real-time monitoring and control of your Victron system, including inverters, solar chargers, battery systems, grid meters, and <abbr title="electric vehicle">EV</abbr> chargers.
